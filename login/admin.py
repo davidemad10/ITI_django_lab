@@ -4,3 +4,5 @@ from .models import *
 # Register your models here.
 admin.site.register(Login)
 
+admin.site.site_header='David website'  
+admin.site.site_title='David website'   
